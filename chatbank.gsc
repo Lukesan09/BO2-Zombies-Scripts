@@ -305,8 +305,11 @@ isInteger( value ) // Check if the value contains only numbers
         return 0;
 }
 
-// bonus functions, can be used in other scripts, include this file in other scripts and use these if you wanna give or take money
+// bonus functions, can be used in other scripts
+//include this file in other scripts and use these if you wanna give or take money
 // player/self give_player_amount(1000)
+// or
+// player/self scripts/zm/chatbank::give_player_amount(1000)
 
 give_player_amount(amount)
 {

@@ -1,5 +1,6 @@
 // chatbank.gsc
 //
+// bank across all maps. interact with it though in game chat
 // bank script where everything actually works (.d .w .money .pay)
 //
 // uses players guid and creates text files with their guid as the file name

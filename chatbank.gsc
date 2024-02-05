@@ -2,7 +2,7 @@
 //
 // bank script where everything actually works (.d .w .money .pay)
 //
-// uses players guid and creates text files with their guid
+// uses players guid and creates text files with their guid as the file name
 //
 // 1. t6 utils required
 // 2. create "bank" directory in t6 folder. program automatically creates files for new players

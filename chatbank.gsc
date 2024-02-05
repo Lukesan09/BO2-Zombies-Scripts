@@ -306,6 +306,7 @@ isInteger( value ) // Check if the value contains only numbers
 }
 
 // bonus functions, can be used in other scripts, include this file in other scripts and use these if you wanna give or take money
+// player/self give_player_amount(1000)
 
 give_player_amount(amount)
 {

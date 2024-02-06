@@ -263,8 +263,6 @@ getBankValue()
 {
     path = "bank/" + self getGuid() + ".txt";
 
-    // Overwrite the bank value
-
     currentbank = int(readFile(path));
     return currentbank;
 }
